@@ -1,6 +1,4 @@
 // 手写new实例化的过程
-
-
 function Person(name, age) {
   this.name = name
   this.age = age
